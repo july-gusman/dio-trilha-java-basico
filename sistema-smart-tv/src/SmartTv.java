@@ -1,8 +1,8 @@
 public class SmartTv {
-   
+
      booLean ligada=false;
      int canal=1;
-     int volume=25;
+     int volume=15;
 
        public void aumentarVolume(){
           volume = volume +1;
